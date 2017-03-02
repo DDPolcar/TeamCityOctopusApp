@@ -15,7 +15,7 @@ namespace TeamCityOctopusApp.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Zmiana";
+            ViewBag.Message = "Zmiana2";
 
             return View();
         }
