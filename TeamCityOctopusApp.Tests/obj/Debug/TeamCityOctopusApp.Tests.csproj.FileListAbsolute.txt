@@ -1,0 +1,5 @@
+C:\Users\ddziub\Desktop\TeamCityOctopusApp\TeamCityOctopusApp.Tests\bin\Debug\TeamCityOctopusApp.Tests.dll
+C:\Users\ddziub\Desktop\TeamCityOctopusApp\TeamCityOctopusApp.Tests\bin\Debug\TeamCityOctopusApp.Tests.pdb
+C:\Users\ddziub\Desktop\TeamCityOctopusApp\TeamCityOctopusApp.Tests\obj\Debug\TeamCityOctopusApp.Tests.csprojResolveAssemblyReference.cache
+C:\Users\ddziub\Desktop\TeamCityOctopusApp\TeamCityOctopusApp.Tests\obj\Debug\TeamCityOctopusApp.Tests.dll
+C:\Users\ddziub\Desktop\TeamCityOctopusApp\TeamCityOctopusApp.Tests\obj\Debug\TeamCityOctopusApp.Tests.pdb
