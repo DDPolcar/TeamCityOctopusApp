@@ -21,5 +21,11 @@ namespace TeamCityOctopusTestApp.Tests
         {
             Assert.True(true);
         }
+
+        [Fact]
+        public void test4()
+        {
+            Assert.True(true);
+        }
     }
 }
