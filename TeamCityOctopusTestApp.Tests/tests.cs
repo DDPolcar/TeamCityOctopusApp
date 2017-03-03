@@ -9,5 +9,17 @@ namespace TeamCityOctopusTestApp.Tests
         {
             Assert.True(true);
         }
+
+        [Fact]
+        public void test2()
+        {
+            Assert.True(true);
+        }
+
+        [Fact]
+        public void test3()
+        {
+            Assert.True(true);
+        }
     }
 }
