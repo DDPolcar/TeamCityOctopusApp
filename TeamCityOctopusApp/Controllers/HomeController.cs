@@ -1,4 +1,5 @@
 ﻿using System.Web.Mvc;
+using Hydra.Framework.Base;
 
 
 namespace TeamCityOctopusApp.Controllers
@@ -7,10 +8,10 @@ namespace TeamCityOctopusApp.Controllers
     {
         public ActionResult Index()
         {
-           //var context= new HydraContext().CallInfo.CallId;
-            
-           // return View(context);
-            return View();
+            var context = new HydraContext().CallInfo.CallId;
+
+            return View(context);
+          //  return View();
         }
 
         public ActionResult About()
