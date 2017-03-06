@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-using System.Web.Mvc;
+﻿using System.Web.Mvc;
+using Hydra.Framework.Base;
 
 namespace TeamCityOctopusApp.Controllers
 {
@@ -10,7 +7,9 @@ namespace TeamCityOctopusApp.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+           var context= new HydraContext().CallInfo.CallId;
+            
+            return View(context);
         }
 
         public ActionResult About()
