@@ -1,5 +1,5 @@
-﻿using Microsoft.Owin;
-using Owin;
+using Microsoft.Owin;
+using Owin;;
 
 [assembly: OwinStartupAttribute(typeof(TeamCityOctopusApp.Startup))]
 namespace TeamCityOctopusApp
